@@ -7,7 +7,3 @@ format: html
 Welcome, my name is Abraham Drury, and I am a graduate student studying Political Science-International Relations at Penn State University. I recently graduated with my MA in Security Studies from Kansas State University, and before that earned my BA in Political Science from the University of Missouri.
 
 You can find my CV and research interests in the tabs above.
-
-
-
-
